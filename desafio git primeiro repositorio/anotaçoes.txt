@@ -1,0 +1,5 @@
+link download do Git :
+
+https://git-scm.com/downloads
+
+git é um terminal para auxiliar no controle de versao
