@@ -58,7 +58,7 @@
      background-color: #6e5896;
 }
 
-.stell {
+.steel {
      background-color: #b9b7cf;
 }
 
@@ -94,6 +94,7 @@
 
 .pokemon .number {
      color: black;
+     text-shadow: #fff 2px 1px 1px;
      opacity: .5;
      text-align: right;
      font-size: .625;
